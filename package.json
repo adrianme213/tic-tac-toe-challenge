@@ -1,0 +1,27 @@
+{
+  "name": "tic-tac-toe-challenge",
+  "version": "1.0.0",
+  "description": "CLI Tic Tac Toe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node grid.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianme213/tic-tac-toe-challenge.git"
+  },
+  "keywords": [
+    "tic-tac-toe",
+    "nodejs",
+    "prompt"
+  ],
+  "author": "Adrian Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianme213/tic-tac-toe-challenge/issues"
+  },
+  "homepage": "https://github.com/adrianme213/tic-tac-toe-challenge#readme",
+  "dependencies": {
+    "prompt-sync": "^4.1.6"
+  }
+}
